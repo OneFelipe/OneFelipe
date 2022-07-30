@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @OneFelipe
-- 👀 I’m interested in Front-end | HTML & CSS | JavaScript 
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello! Me chamo Felipe Sousa
+#### Estou iniciando minha carreira como programador
+#
+<br>
+<div align="center">
+  <a href="https://github.com/OneFelipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OneFelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneFelipe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<!---
-OneFelipe/OneFelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
